@@ -3,10 +3,7 @@
 This repository contains my coursework and practical programming exercises for the **8051 Microcontroller** using **Assembly language**, submitted for the Microprocessor course (Semester 2025.2).
 
 ## 👨‍🎓 Student Information
-* **Full Name:** [Your Full Name]
-* **Student ID:** [Your Student ID]
-* **Class / Course Code:** [Your Class / Course Code]
-* **Instructor:** [Your Instructor's Name]
+* **Full Name:** Nguyễn Huy Hoàng Bách
 
 ## 📂 Repository Contents
 * **`Bai tap dai VDK 2025.2.pdf`**: The official assignment prompt and problem statements provided by the instructor (can be viewed directly on GitHub).
